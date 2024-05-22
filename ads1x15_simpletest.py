@@ -1,3 +1,10 @@
+#sudo raspi-config
+#interfacing option > I2C 
+#sudo i2cdetect -y -l
+#sudo pip3 install adafruit-circuitpython-ads1x15
+
+
+
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
 # SPDX-License-Identifier: MIT
 
