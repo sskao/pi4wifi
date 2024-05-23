@@ -1,6 +1,9 @@
 # SPDX-FileCopyrightText: 2021 ladyada for Adafruit Industries
 # SPDX-License-Identifier: MIT
 
+#sudo nano /etc/rc.local
+#sudo python /home/pi/sample.py &
+
 import time
 import board
 import busio
